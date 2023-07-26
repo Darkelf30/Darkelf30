@@ -21,7 +21,7 @@
 <div align="left">
 :man_technologist: <b>About Me :</b> 
 
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am Oyindamola Tomoye, a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - :telescope: I’m working as a Data analyst and contributing to business process optimization and insights discovery.
 - :seedling: Currently studying for the Microsoft Power BI Data Analyst Certification.
