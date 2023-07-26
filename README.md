@@ -51,4 +51,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Danny Ma SQL Data Challenge Case Study 1](https://medium.com/@oyindamola.tomoye27/danny-ma-sql-data-challenge-case-study-1-wih-code-and-visualizations-c2755a3e5b39)
+- [Danny Ma SQL Data Challenge Case Study 2 - Part 1](https://medium.com/@oyindamola.tomoye27/danny-ma-sql-challenge-case-2-pizza-runner-6cc0f459a6f5)
+
 <!-- BLOG-POST-LIST:END -->
